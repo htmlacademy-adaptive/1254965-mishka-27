@@ -1,7 +1,7 @@
 # Личный проект «Мишка» 
 
 * Студент: [Anna Vatockina](https://up.htmlacademy.ru/adaptive/27/user/1254965).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Петров](https://up.htmlacademy.ru/adaptive/27/user/617077).
 
 ---
 
